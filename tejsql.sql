@@ -1,0 +1,1 @@
+select 'tej' as tej
