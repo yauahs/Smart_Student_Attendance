@@ -1,0 +1,1 @@
+select '24aug' as today
